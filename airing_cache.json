@@ -1,6 +1,6 @@
 {
   "username": "Orewatokyo",
-  "updated_at": 1794834175,
+  "updated_at": 1794923065,
   "media_ids": [
     20,
     21,
@@ -185,6 +185,7 @@
     98251,
     98476,
     98491,
+    98580,
     99088,
     99200,
     99263,
@@ -236,6 +237,7 @@
     107201,
     107444,
     107693,
+    107717,
     107871,
     107956,
     108062,
@@ -243,6 +245,7 @@
     108465,
     108511,
     108759,
+    109261,
     109492,
     110229,
     111321,
@@ -282,6 +285,7 @@
     125206,
     125367,
     126192,
+    126213,
     126357,
     126529,
     127090,
@@ -300,6 +304,7 @@
     130586,
     131083,
     131518,
+    131520,
     132052,
     132405,
     132456,
@@ -403,6 +408,7 @@
     162890,
     163076,
     163142,
+    163327,
     163329,
     163788,
     164172,
@@ -473,6 +479,7 @@
     176301,
     176370,
     176508,
+    177191,
     177271,
     177501,
     177552,
@@ -1563,7 +1570,7 @@
     },
     {
       "media_id": 98251,
-      "status": "PLANNING"
+      "status": "COMPLETED"
     },
     {
       "media_id": 98476,
@@ -1572,6 +1579,10 @@
     {
       "media_id": 98491,
       "status": "CURRENT"
+    },
+    {
+      "media_id": 98580,
+      "status": "COMPLETED"
     },
     {
       "media_id": 99088,
@@ -1695,7 +1706,7 @@
     },
     {
       "media_id": 103572,
-      "status": "PLANNING"
+      "status": "COMPLETED"
     },
     {
       "media_id": 103900,
@@ -1778,6 +1789,10 @@
       "status": "COMPLETED"
     },
     {
+      "media_id": 107717,
+      "status": "COMPLETED"
+    },
+    {
       "media_id": 107871,
       "status": "COMPLETED"
     },
@@ -1803,6 +1818,10 @@
     },
     {
       "media_id": 108759,
+      "status": "COMPLETED"
+    },
+    {
+      "media_id": 109261,
       "status": "COMPLETED"
     },
     {
@@ -1962,6 +1981,10 @@
       "status": "COMPLETED"
     },
     {
+      "media_id": 126213,
+      "status": "PLANNING"
+    },
+    {
       "media_id": 126357,
       "status": "COMPLETED"
     },
@@ -2031,6 +2054,10 @@
     },
     {
       "media_id": 131518,
+      "status": "COMPLETED"
+    },
+    {
+      "media_id": 131520,
       "status": "COMPLETED"
     },
     {
@@ -2446,6 +2473,10 @@
       "status": "COMPLETED"
     },
     {
+      "media_id": 163327,
+      "status": "COMPLETED"
+    },
+    {
       "media_id": 163329,
       "status": "COMPLETED"
     },
@@ -2523,7 +2554,7 @@
     },
     {
       "media_id": 167486,
-      "status": "PLANNING"
+      "status": "COMPLETED"
     },
     {
       "media_id": 168374,
@@ -2555,7 +2586,7 @@
     },
     {
       "media_id": 169583,
-      "status": "PLANNING"
+      "status": "CURRENT"
     },
     {
       "media_id": 169935,
@@ -2647,7 +2678,7 @@
     },
     {
       "media_id": 172416,
-      "status": "PLANNING"
+      "status": "COMPLETED"
     },
     {
       "media_id": 172439,
@@ -2723,6 +2754,10 @@
     },
     {
       "media_id": 176508,
+      "status": "COMPLETED"
+    },
+    {
+      "media_id": 177191,
       "status": "COMPLETED"
     },
     {
@@ -2911,7 +2946,7 @@
     },
     {
       "media_id": 181444,
-      "status": "PLANNING"
+      "status": "COMPLETED"
     },
     {
       "media_id": 181447,
@@ -3135,7 +3170,7 @@
     },
     {
       "media_id": 186789,
-      "status": "PLANNING"
+      "status": "COMPLETED"
     },
     {
       "media_id": 186794,
@@ -3263,7 +3298,7 @@
     },
     {
       "media_id": 189259,
-      "status": "PLANNING"
+      "status": "COMPLETED"
     },
     {
       "media_id": 189323,
@@ -3563,7 +3598,7 @@
     },
     {
       "media_id": 199112,
-      "status": "PLANNING"
+      "status": "COMPLETED"
     },
     {
       "media_id": 199221,
@@ -3695,7 +3730,7 @@
     },
     {
       "media_id": 202523,
-      "status": "CURRENT"
+      "status": "COMPLETED"
     },
     {
       "media_id": 202564,
@@ -3875,7 +3910,7 @@
     },
     {
       "media_id": 208517,
-      "status": "PLANNING"
+      "status": "COMPLETED"
     },
     {
       "media_id": 208685,
