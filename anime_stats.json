@@ -1,6 +1,6 @@
 {
   "latest_snapshot": {
-    "generated_at": 1795446636,
+    "generated_at": 1795532938,
     "list_anime": 859,
     "tracked_anime": 859,
     "status_counts": {
@@ -17,30 +17,30 @@
       "muted": 0,
       "other": 781
     },
-    "upcoming_next_24h": 8,
-    "upcoming_next_7d": 64,
+    "upcoming_next_24h": 3,
+    "upcoming_next_7d": 63,
     "schedule_events_last_7d": {
       "delay": 1,
-      "moved_earlier": 0,
+      "moved_earlier": 4,
       "schedule_replaced": 3,
       "missing": 0,
       "restored": 0
     }
   },
-  "updated_at": 1795446636,
+  "updated_at": 1795532938,
   "delivery": {
-    "anilist_requests": 348,
+    "anilist_requests": 369,
     "anilist_errors": 0,
     "anilist_retries": 0,
-    "discord_requests": 64,
-    "discord_successes": 64,
+    "discord_requests": 67,
+    "discord_successes": 67,
     "discord_errors": 0,
     "discord_retries": 0,
     "reminders_sent": 81,
-    "intelligence_events_sent": 8,
-    "morning_digests_sent": 17,
+    "intelligence_events_sent": 13,
+    "morning_digests_sent": 18,
     "weekly_calendars_sent": 3,
-    "last_run_at": 1795446636,
+    "last_run_at": 1795532938,
     "last_run_api_errors": 0,
     "last_run_discord_errors": 0
   },
@@ -253,9 +253,20 @@
       "intelligence_events_sent": 1,
       "morning_digest_sent": true,
       "weekly_calendar_sent": true
+    },
+    {
+      "at": 1795532938,
+      "anilist_requests": 21,
+      "anilist_errors": 0,
+      "discord_requests": 3,
+      "discord_errors": 0,
+      "reminders_sent": 0,
+      "intelligence_events_sent": 5,
+      "morning_digest_sent": true,
+      "weekly_calendar_sent": false
     }
   ],
-  "last_morning_digest_date": "2026-11-23",
+  "last_morning_digest_date": "2026-11-24",
   "last_weekly_calendar": "2026-W48",
   "last_weekly_report": "2026-W48",
   "weekly_reports": [
