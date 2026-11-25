@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": 1795532938,
+  "updated_at": 1795618142,
   "airings": {
     "203275_ep1": {
       "media_id": 203275,
@@ -1998,7 +1998,7 @@
       "first_seen_at": 1794923065,
       "last_seen_at": 1795446636,
       "status": "scheduled",
-      "missing_checks": 1,
+      "missing_checks": 2,
       "changes": [
         {
           "event_id": "204011_ep7:delay:1795446636:1795442400:1796047200",
@@ -2033,7 +2033,7 @@
       "airing_at": 1795523160,
       "first_seen_at": 1794923065,
       "last_seen_at": 1795446636,
-      "status": "scheduled",
+      "status": "elapsed",
       "missing_checks": 1,
       "changes": []
     },
@@ -2045,7 +2045,7 @@
       "airing_at": 1795525200,
       "first_seen_at": 1794923065,
       "last_seen_at": 1795446636,
-      "status": "scheduled",
+      "status": "elapsed",
       "missing_checks": 1,
       "changes": []
     },
@@ -2057,7 +2057,7 @@
       "airing_at": 1795528800,
       "first_seen_at": 1795007997,
       "last_seen_at": 1795446636,
-      "status": "scheduled",
+      "status": "elapsed",
       "missing_checks": 1,
       "changes": []
     },
@@ -2069,7 +2069,7 @@
       "airing_at": 1795528800,
       "first_seen_at": 1795007997,
       "last_seen_at": 1795446636,
-      "status": "scheduled",
+      "status": "elapsed",
       "missing_checks": 1,
       "changes": []
     },
@@ -2081,7 +2081,7 @@
       "airing_at": 1795528800,
       "first_seen_at": 1795007997,
       "last_seen_at": 1795446636,
-      "status": "scheduled",
+      "status": "elapsed",
       "missing_checks": 1,
       "changes": []
     },
@@ -2093,7 +2093,7 @@
       "airing_at": 1795530600,
       "first_seen_at": 1795007997,
       "last_seen_at": 1795446636,
-      "status": "scheduled",
+      "status": "elapsed",
       "missing_checks": 1,
       "changes": []
     },
@@ -2105,7 +2105,7 @@
       "airing_at": 1795532400,
       "first_seen_at": 1795007997,
       "last_seen_at": 1795446636,
-      "status": "scheduled",
+      "status": "elapsed",
       "missing_checks": 1,
       "changes": []
     },
@@ -2118,7 +2118,7 @@
       "first_seen_at": 1795007997,
       "last_seen_at": 1795532938,
       "status": "scheduled",
-      "missing_checks": 0,
+      "missing_checks": 1,
       "changes": []
     },
     "211778_ep8": {
@@ -2130,7 +2130,7 @@
       "first_seen_at": 1795007997,
       "last_seen_at": 1795532938,
       "status": "scheduled",
-      "missing_checks": 0,
+      "missing_checks": 1,
       "changes": []
     },
     "178868_ep8": {
@@ -2142,7 +2142,7 @@
       "first_seen_at": 1795095850,
       "last_seen_at": 1795532938,
       "status": "scheduled",
-      "missing_checks": 0,
+      "missing_checks": 1,
       "changes": [
         {
           "event_id": "178868_ep8:moved_earlier:1795532938:1795617960:1795617900",
@@ -2164,7 +2164,7 @@
       "schedule_id": "418801",
       "airing_at": 1795620600,
       "first_seen_at": 1795095850,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2176,7 +2176,7 @@
       "schedule_id": "419819",
       "airing_at": 1795620600,
       "first_seen_at": 1795095850,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2188,7 +2188,7 @@
       "schedule_id": "420123",
       "airing_at": 1795621500,
       "first_seen_at": 1795095850,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2200,7 +2200,7 @@
       "schedule_id": "419088",
       "airing_at": 1795696200,
       "first_seen_at": 1795095850,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2212,7 +2212,7 @@
       "schedule_id": "424268",
       "airing_at": 1795704960,
       "first_seen_at": 1795181226,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": [
@@ -2235,7 +2235,7 @@
       "schedule_id": "418967",
       "airing_at": 1795705200,
       "first_seen_at": 1795181226,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2247,7 +2247,7 @@
       "schedule_id": "418985",
       "airing_at": 1795705200,
       "first_seen_at": 1795181226,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2259,7 +2259,7 @@
       "schedule_id": "419079",
       "airing_at": 1795705200,
       "first_seen_at": 1795181226,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2271,7 +2271,7 @@
       "schedule_id": "420200",
       "airing_at": 1795705200,
       "first_seen_at": 1795181226,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2283,7 +2283,7 @@
       "schedule_id": "420201",
       "airing_at": 1795705200,
       "first_seen_at": 1795181226,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2295,7 +2295,7 @@
       "schedule_id": "421809",
       "airing_at": 1795705200,
       "first_seen_at": 1795181226,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2307,7 +2307,7 @@
       "schedule_id": "422945",
       "airing_at": 1795705200,
       "first_seen_at": 1795181226,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2319,7 +2319,7 @@
       "schedule_id": "417007",
       "airing_at": 1795706760,
       "first_seen_at": 1795181226,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2331,7 +2331,7 @@
       "schedule_id": "418827",
       "airing_at": 1795710480,
       "first_seen_at": 1795181226,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2343,7 +2343,7 @@
       "schedule_id": "423201",
       "airing_at": 1795780800,
       "first_seen_at": 1795181226,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2355,7 +2355,7 @@
       "schedule_id": "424368",
       "airing_at": 1795782300,
       "first_seen_at": 1795181226,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": [
@@ -2379,7 +2379,7 @@
       "schedule_id": "423857",
       "airing_at": 1795786200,
       "first_seen_at": 1795265680,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2391,7 +2391,7 @@
       "schedule_id": "418789",
       "airing_at": 1795788000,
       "first_seen_at": 1795265680,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2403,7 +2403,7 @@
       "schedule_id": "418472",
       "airing_at": 1795789800,
       "first_seen_at": 1795265680,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2415,7 +2415,7 @@
       "schedule_id": "422243",
       "airing_at": 1795789800,
       "first_seen_at": 1795265680,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2427,7 +2427,7 @@
       "schedule_id": "421096",
       "airing_at": 1795791600,
       "first_seen_at": 1795265680,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2439,7 +2439,7 @@
       "schedule_id": "424294",
       "airing_at": 1795796580,
       "first_seen_at": 1795265680,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": [
@@ -2463,7 +2463,7 @@
       "schedule_id": "380071",
       "airing_at": 1795852800,
       "first_seen_at": 1795265680,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2475,7 +2475,7 @@
       "schedule_id": "422495",
       "airing_at": 1795854600,
       "first_seen_at": 1795265680,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2487,7 +2487,7 @@
       "schedule_id": "421845",
       "airing_at": 1795857900,
       "first_seen_at": 1795265680,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2499,7 +2499,7 @@
       "schedule_id": "419832",
       "airing_at": 1795867200,
       "first_seen_at": 1795265680,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2511,7 +2511,7 @@
       "schedule_id": "421890",
       "airing_at": 1795870800,
       "first_seen_at": 1795351639,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2523,7 +2523,7 @@
       "schedule_id": "420149",
       "airing_at": 1795872600,
       "first_seen_at": 1795351639,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2535,7 +2535,7 @@
       "schedule_id": "419558",
       "airing_at": 1795874400,
       "first_seen_at": 1795351639,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2547,7 +2547,7 @@
       "schedule_id": "423120",
       "airing_at": 1795876200,
       "first_seen_at": 1795351639,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2559,7 +2559,7 @@
       "schedule_id": "420247",
       "airing_at": 1795877100,
       "first_seen_at": 1795351639,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2571,7 +2571,7 @@
       "schedule_id": "422401",
       "airing_at": 1795878000,
       "first_seen_at": 1795351639,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2585,7 +2585,7 @@
       "first_seen_at": 1795351639,
       "last_seen_at": 1795532938,
       "status": "scheduled",
-      "missing_checks": 0,
+      "missing_checks": 1,
       "changes": []
     },
     "202250_ep9": {
@@ -2595,7 +2595,7 @@
       "schedule_id": "419570",
       "airing_at": 1795883400,
       "first_seen_at": 1795351639,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2607,7 +2607,7 @@
       "schedule_id": "423031",
       "airing_at": 1795937400,
       "first_seen_at": 1795351639,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2619,7 +2619,7 @@
       "schedule_id": "422230",
       "airing_at": 1795939200,
       "first_seen_at": 1795351639,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2631,7 +2631,7 @@
       "schedule_id": "419795",
       "airing_at": 1795955400,
       "first_seen_at": 1795351639,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2643,7 +2643,7 @@
       "schedule_id": "418257",
       "airing_at": 1795957200,
       "first_seen_at": 1795446636,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2655,7 +2655,7 @@
       "schedule_id": "424306",
       "airing_at": 1795961700,
       "first_seen_at": 1795446636,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": [
@@ -2679,7 +2679,7 @@
       "schedule_id": "419234",
       "airing_at": 1795962600,
       "first_seen_at": 1795446636,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2691,7 +2691,7 @@
       "schedule_id": "419256",
       "airing_at": 1795962600,
       "first_seen_at": 1795446636,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2703,7 +2703,7 @@
       "schedule_id": "419618",
       "airing_at": 1795962600,
       "first_seen_at": 1795446636,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2715,7 +2715,7 @@
       "schedule_id": "419903",
       "airing_at": 1795962600,
       "first_seen_at": 1795446636,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2727,7 +2727,7 @@
       "schedule_id": "422107",
       "airing_at": 1795963500,
       "first_seen_at": 1795446636,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2739,7 +2739,7 @@
       "schedule_id": "417505",
       "airing_at": 1795964400,
       "first_seen_at": 1795446636,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2751,7 +2751,7 @@
       "schedule_id": "419007",
       "airing_at": 1795964400,
       "first_seen_at": 1795446636,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2763,7 +2763,7 @@
       "schedule_id": "419334",
       "airing_at": 1795968300,
       "first_seen_at": 1795446636,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2775,7 +2775,7 @@
       "schedule_id": "423146",
       "airing_at": 1795968300,
       "first_seen_at": 1795446636,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2787,7 +2787,7 @@
       "schedule_id": "419209",
       "airing_at": 1795969200,
       "first_seen_at": 1795446636,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2799,7 +2799,7 @@
       "schedule_id": "422534",
       "airing_at": 1795975200,
       "first_seen_at": 1795446636,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2811,7 +2811,7 @@
       "schedule_id": "420073",
       "airing_at": 1796041800,
       "first_seen_at": 1795446636,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2823,7 +2823,7 @@
       "schedule_id": "423419",
       "airing_at": 1796043600,
       "first_seen_at": 1795446636,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2835,7 +2835,7 @@
       "schedule_id": "418910",
       "airing_at": 1796058000,
       "first_seen_at": 1795532938,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2847,7 +2847,7 @@
       "schedule_id": "424319",
       "airing_at": 1796127900,
       "first_seen_at": 1795532938,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2859,7 +2859,7 @@
       "schedule_id": "420424",
       "airing_at": 1796130000,
       "first_seen_at": 1795532938,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2871,7 +2871,7 @@
       "schedule_id": "418485",
       "airing_at": 1796133600,
       "first_seen_at": 1795532938,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2883,7 +2883,7 @@
       "schedule_id": "418980",
       "airing_at": 1796133600,
       "first_seen_at": 1795532938,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2895,7 +2895,7 @@
       "schedule_id": "422545",
       "airing_at": 1796133600,
       "first_seen_at": 1795532938,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2907,7 +2907,7 @@
       "schedule_id": "422448",
       "airing_at": 1796135400,
       "first_seen_at": 1795532938,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
@@ -2919,7 +2919,43 @@
       "schedule_id": "423625",
       "airing_at": 1796137200,
       "first_seen_at": 1795532938,
-      "last_seen_at": 1795532938,
+      "last_seen_at": 1795618142,
+      "status": "scheduled",
+      "missing_checks": 0,
+      "changes": []
+    },
+    "152677_ep9": {
+      "media_id": 152677,
+      "episode": 9,
+      "title": "The Detective Is Already Dead Season 2",
+      "schedule_id": "422063",
+      "airing_at": 1796214600,
+      "first_seen_at": 1795618142,
+      "last_seen_at": 1795618142,
+      "status": "scheduled",
+      "missing_checks": 0,
+      "changes": []
+    },
+    "211778_ep9": {
+      "media_id": 211778,
+      "episode": 9,
+      "title": "The World's Strongest Witch",
+      "schedule_id": "420160",
+      "airing_at": 1796216400,
+      "first_seen_at": 1795618142,
+      "last_seen_at": 1795618142,
+      "status": "scheduled",
+      "missing_checks": 0,
+      "changes": []
+    },
+    "178868_ep9": {
+      "media_id": 178868,
+      "episode": 9,
+      "title": "Magic Knight Rayearth (2026)",
+      "schedule_id": "424356",
+      "airing_at": 1796222700,
+      "first_seen_at": 1795618142,
+      "last_seen_at": 1795618142,
       "status": "scheduled",
       "missing_checks": 0,
       "changes": []
